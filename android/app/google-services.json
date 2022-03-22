@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "280724246713",
+    "project_id": "mental-health-companion-3f9bf",
+    "storage_bucket": "mental-health-companion-3f9bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280724246713:android:230ebc4b01b057ceb1cb68",
+        "android_client_info": {
+          "package_name": "xyz.indovators.mentalhealthcompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280724246713-defel0n02q79197bpt4n6k3g6gu4p48j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xyz.indovators.mentalhealthcompanion",
+            "certificate_hash": "daa00f20cc922ad1035db577a3f767da367bd293"
+          }
+        },
+        {
+          "client_id": "280724246713-aebcpp4arnt18lm30fmrqk0js6vd0r7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6yzZNg4Dd-RAyInrTVX64vba1593QDh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280724246713-aebcpp4arnt18lm30fmrqk0js6vd0r7m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "280724246713-vrvtu3p0qa9rppkteol2vvnn1ggtdodn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "xyz.indovators.mentalhealthcompanion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
