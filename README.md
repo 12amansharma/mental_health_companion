@@ -1,6 +1,19 @@
 # mental_health_companion
 
-A new Flutter project.
+Mental health is an important issue in this world today. As 
+now in these troubling times of Covid 19 a large amount of 
+population worldwide is now doing work from their homes 
+and is staying away from their loved ones, almost everyone’s 
+mental health situation has deteriorated. So, it becomes 
+important to track and solve any mental health issues before 
+they get serious. I’m trying to achieve this using this Mental 
+Health Companion App. 
+This companion app has been made keeping in mind that the 
+app’s users would be suffering from some sort of mental 
+illness and generally not keen to engage/spent much time with 
+an app, hence this app is designed to be very user friendly 
+with its UI being easy to use and with welcoming color 
+schemes. 
 
 ## Getting Started
 
